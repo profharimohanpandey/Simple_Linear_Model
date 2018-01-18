@@ -1,0 +1,2 @@
+# Simple_Linear_Model
+About Program: An example of simple linear model. It uses model parameters W (weight) and bias (b) . Bias is used to avoid a situation of W*x = 0. This model works on loss function and an optimzer Gradient Descent. A session is created which then executed applying a for loop to collect the output.  This is a simple model just to demonstrate the utility of TensorFlow with Python.
